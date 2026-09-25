@@ -8,7 +8,7 @@
     - [1.1.2. Pictures](#112-pictures)
     - [1.1.3. 3D Files](#113-3d-files)
     - [1.1.4. STL Files](#114-stl-files)
-  - [1U Rackmount Bracket](#1u-rackmount-bracket)
+  - [1.2. 1U Rackmount Bracket](#12-1u-rackmount-bracket)
 
 
 
@@ -35,6 +35,6 @@ Contains the solidworks files for both PLA and Metal brackets, should fit a 1U n
 
 Contains the STL files used to print the PLA and if you want the metal versions.
 
-## 1U Rackmount Bracket
+## 1.2. 1U Rackmount Bracket
 
 Working on a 1U bracket for server rack, idea is to test out different designs to consolidate my server rack.
