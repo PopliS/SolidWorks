@@ -17,3 +17,7 @@
 Folder containing designs for the Rockville RPA60BT V2 sound system amp.  The brackets mount to the side of the stereo amp to allow for server rack mounting.
 
 ![alt text](image.png) 
+
+## 1.2. 1U Rackmount Bracket
+
+Working on a 1U bracket for server rack, idea is to test out different designs to consolidate my server rack.
