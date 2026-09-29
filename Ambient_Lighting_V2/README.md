@@ -36,6 +36,13 @@ I learned alot when doing version 1 on how to make this work. I have goals I wou
   - Take advantage of VESA mounting holes on back of TV
   - Make lighting diffuesed
 - Should be able to be placed and removed with minimal work.
+- Integrate with HomeAssistant to auto turn on and off under environmental variables
+  - Ambient lighting should turn on when Nvidia Shield is turned on
+    - Reason: waste of power for nothing
+    - How: HomeAssistant Automation
+  - Ambient lighting should turn on when it is dark in the viewing environment
+    - Reason: not purposeful if the room is blown out with light
+    - How: create esp32 lumen sensor to drive ambient lighting
 
 ### Setup
 ![alt text](image-5.png)
