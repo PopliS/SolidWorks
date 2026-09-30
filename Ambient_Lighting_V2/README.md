@@ -44,11 +44,21 @@ I learned alot when doing version 1 on how to make this work. I have goals I wou
     - Reason: not purposeful if the room is blown out with light
     - How: create esp32 lumen sensor to drive ambient lighting
 
-### List of Materials
-- Raspberry Pi ?
-- LED Strip
-- Power Source
 
-### Setup
 ![alt text](image-5.png)
 *<p align="center">Version 2 Apartment TV Setup</p>*
+
+### List of Materials
+- Raspberry Pi Zero
+  - ![alt text](image-6.png)
+   *<p align="center">Raspberry Pi Zero Headerless</p>*
+  - ![alt text](image-7.png)
+     *<p align="center">Raspberry Pi Pin-Out</p>*
+- LED Strip
+  - ![alt text](image-8.png)
+       *<p align="center">3-Wire ARGB Strip, (Power, Ground and Data)</p>*
+- Power Source
+![alt text](image-9.png)
+       *<p align="center">5V PSU to wire RP0 and LEDs</p>*
+
+### Wiring Schematic
