@@ -63,4 +63,4 @@ I learned alot when doing version 1 on how to make this work. I have goals I wou
 
 ### Diagrams
 
-Bunch of diagrams for this project within this folder structure under "Diagrams" folder.
+Bunch of diagrams for this project within this folder structure under "Diagrams" folder.  Currently only contains the wiring of the whole project.
