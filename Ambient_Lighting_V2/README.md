@@ -13,16 +13,16 @@ Tested out ambient lighting on PC monitor in early 2020 as a proof of concept.  
 
 Pictures of version 1 setup listed below with annotations explaining the concept
 
-![alt text](image.png)
+![alt text](Images/image.png)
 *<p align="center">Back of Monitor Setup: 4K Capture card left, USB to RP4 middle, RP4 Right</p>*
 
-![alt text](image-1.png)
+![alt text](Images/image-1.png)
 *<p align="center">RP4 Hyperion Setup with digital LED number to Physical in 1st image</p>*
 
-![alt text](image-3.png)
+![alt text](Images/image-3.png)
 *<p align="center">Monitor without Hyperion Ambient Lighting</p>*
 
-![alt text](image-4.png)
+![alt text](Images/image-4.png)
 *<p align="center">Monitor with Hyperion Ambient Lighting</p>*
 
 ## Version 2 Project
@@ -45,20 +45,20 @@ I learned alot when doing version 1 on how to make this work. I have goals I wou
     - How: create esp32 lumen sensor to drive ambient lighting
 
 
-![alt text](image-5.png)
+![alt text](Images/image-5.png)
 *<p align="center">Version 2 Apartment TV Setup</p>*
 
 ### List of Materials
 - Raspberry Pi Zero
-  - ![alt text](image-6.png)
+  - ![alt text](Images/image-6.png)
    *<p align="center">Raspberry Pi Zero Headerless</p>*
-  - ![alt text](image-7.png)
+  - ![alt text](Images/image-7.png)
      *<p align="center">Raspberry Pi Pin-Out</p>*
 - LED Strip
-  - ![alt text](image-8.png)
+  - ![alt text](Images/image-8.png)
        *<p align="center">3-Wire ARGB Strip, (Power, Ground and Data)</p>*
 - Power Source
-![alt text](image-9.png)
+![alt text](Images/image-9.png)
        *<p align="center">5V PSU to wire RP0 and LEDs</p>*
 
 ### Diagrams
