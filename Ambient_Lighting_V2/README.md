@@ -61,4 +61,6 @@ I learned alot when doing version 1 on how to make this work. I have goals I wou
 ![alt text](image-9.png)
        *<p align="center">5V PSU to wire RP0 and LEDs</p>*
 
-### Wiring Schematic
+### Diagrams
+
+Bunch of diagrams for this project within this folder structure under "Diagrams" folder.
