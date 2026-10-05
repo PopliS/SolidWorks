@@ -68,7 +68,9 @@ Bunch of diagrams for this project within this folder structure under "Diagrams"
 ![alt text](Images/image-10.png)
 
 ### Physical
+![alt text](Images/image-11.png)
+
 ![alt text](Images/ambient_lighting_demo.gif)
 
-![alt text](Images/image-11.png)
+
 
