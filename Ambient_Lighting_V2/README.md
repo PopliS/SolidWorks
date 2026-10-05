@@ -64,3 +64,11 @@ I learned alot when doing version 1 on how to make this work. I have goals I wou
 ### Diagrams
 
 Bunch of diagrams for this project within this folder structure under "Diagrams" folder.  Currently only contains the wiring of the whole project.
+
+![alt text](Images/image-10.png)
+
+### Physical
+![alt text](Images/ambient_lighting_demo.gif)
+
+![alt text](Images/image-11.png)
+
