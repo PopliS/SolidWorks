@@ -72,5 +72,8 @@ Bunch of diagrams for this project within this folder structure under "Diagrams"
 
 ![alt text](Images/ambient_lighting_demo.gif)
 
+![alt text](Images/ApartmentTest.gif)
+
+
 
 
